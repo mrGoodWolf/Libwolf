@@ -1,2 +1,2 @@
 # Libwolf
-small light java game libary base libary lwjgl
+small light java game libary
